@@ -1,0 +1,14 @@
+Timestamp: 2024-07-20 13:02:41, Event: Switched to database 'my_database'
+Timestamp: 2024-07-20 13:03:17, Event: Row inserted into table 'my_table' with values [2,  'John']
+Timestamp: 2024-07-21 01:49:20, Event: Switched to database 'my_database'
+Timestamp: 2024-07-21 01:50:12, Event: Row inserted into table 'my_table' with values [2,  'John']
+2024-07-21 02:12:30 - EVENT: Switched to database 'my_database'
+2024-07-21 02:12:41 - ERROR: Error counting tables: src\main\java\org\example\Logs\database_logs.txt (The system cannot find the file specified)
+2024-07-21 02:12:41 - ERROR: Error counting records: src\main\java\org\example\Logs\database_logs.txt (The system cannot find the file specified)
+2024-07-21 02:12:41 - EVENT: Row inserted into table 'my_table' with values [1, 'John']
+2024-07-21 02:23:30 - EVENT: Switched to database 'my_database'
+2024-07-21 02:27:22 - EVENT: Switched to database 'my_database'
+2024-07-21 02:34:31 - EVENT: Switched to database 'my_database'
+2024-07-21 02:34:55 - EVENT: Row inserted into table 'my_table' with values [1, 'John']
+2024-07-21 02:46:17 - EVENT: Switched to database 'my_database'
+2024-07-21 02:46:43 - EVENT: Row inserted into table 'my_table' with values [1, 'John']

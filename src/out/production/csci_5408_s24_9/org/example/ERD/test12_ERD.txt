@@ -1,0 +1,3 @@
+Entity-Relationship Diagram (ERD) for Database: test12
+=================================================
+ERD generation completed successfully.

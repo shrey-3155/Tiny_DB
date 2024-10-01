@@ -1,0 +1,10 @@
+Switched to database 'test'
+Switched to database 'test'
+Row inserted into table 'Consumers' with values [5,  'John',  john@gmail.com]
+Row inserted into table 'Consumers' with values [5,  'John',  john@gmail.com]
+Timestamp: 2024-07-18 18:11:00, Event: Switched to database 'test'
+Timestamp: 2024-07-18 18:12:48, Event: Row inserted into table 'Consumers' with values [6,  'Tom',  'tom@gmail.com']
+Timestamp: 2024-07-18 18:15:36, Event: Switched to database 'test'
+Timestamp: 2024-07-18 18:16:02, Event: Update query executed on table 'Consumers' with values Name = 'Mike' and condition ID = 1
+Timestamp: 2024-07-21 03:11:07, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:11:37, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']

@@ -1,0 +1,2 @@
+Timestamp: 2024-07-21 03:10:26, Event: Switched to database 'my_database'
+Timestamp: 2024-07-21 03:10:59, Event: Row inserted into table 'my_table' with values [1,  'John']

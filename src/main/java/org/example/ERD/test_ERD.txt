@@ -1,0 +1,19 @@
+Entity-Relationship Diagram (ERD) for Database: test
+=================================================
+
+Table: Consumers
+Columns | Datatype | Constraints | Relationship
+-------------------------------------------------
+email | varchar(255) | None | NONE
+Name | varchar(255) | None | NONE
+ID | int | PRIMARY KEY | NONE
+-------------------------------------------------
+
+Table: Orders
+Columns | Datatype | Constraints | Relationship
+-------------------------------------------------
+PersonID | int | FOREIGN KEY | Persons(ID)
+OrderNumber | varchar(255) | None | NONE
+OrderID | int | PRIMARY KEY | NONE
+-------------------------------------------------
+ERD generation completed successfully.

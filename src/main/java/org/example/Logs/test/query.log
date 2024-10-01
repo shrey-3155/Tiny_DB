@@ -1,0 +1,10 @@
+USE DATABASE test
+USE DATABASE test
+INSERT INTO Consumers (id, name, email) VALUES (5, 'John', john@gmail.com)
+INSERT INTO Consumers (ID, Name, email) VALUES (5, 'John', john@gmail.com)
+Timestamp: 2024-07-18 18:11:00, Query: USE DATABASE test
+Timestamp: 2024-07-18 18:12:48, Query: INSERT INTO Consumers (ID, Name, email) VALUES (6, 'Tom', 'tom@gmail.com')
+Timestamp: 2024-07-18 18:15:36, Query: USE DATABASE test
+Timestamp: 2024-07-18 18:16:02, Query: UPDATE Consumers SET Name = 'Mike' WHERE ID = 1
+Timestamp: 2024-07-21 03:11:07, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:11:37, Query: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')

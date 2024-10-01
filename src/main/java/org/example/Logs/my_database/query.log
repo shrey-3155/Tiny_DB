@@ -1,0 +1,2 @@
+Timestamp: 2024-07-21 03:10:26, Query: USE DATABASE my_database
+Timestamp: 2024-07-21 03:10:59, Query: INSERT INTO my_table (id, name) VALUES (1, 'John')

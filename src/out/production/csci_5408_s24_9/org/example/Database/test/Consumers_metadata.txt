@@ -1,0 +1,3 @@
+email | varchar(255) | None
+Name | varchar(255) | None
+ID | int | PRIMARY KEY

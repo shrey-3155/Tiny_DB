@@ -1,0 +1,46 @@
+{timestamp: "2024-07-13 17:59:05", eventDescription: "Switched to database 'my_database'"}
+{timestamp: "2024-07-13 18:42:18", eventDescription: "Switched to database 'my_database'"}
+{timestamp: "2024-07-13 18:43:49", eventDescription: "Row inserted into table 'my_table' with values [3,  'Alice']"}
+{timestamp: "2024-07-13 18:47:48", eventDescription: "Switched to database 'my_database'"}
+{timestamp: "2024-07-13 18:48:05", eventDescription: "Row inserted into table 'my_table' with values [2,  'Alice']"}
+{timestamp: "2024-07-13 19:08:15", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-13 19:09:09", eventDescription: "Row inserted into table 'Consumers' with values [4,  'Alice',  'alice@gmail']"}
+{timestamp: "2024-07-13 19:09:42", eventDescription: "Row inserted into table 'Consumers' with values ['4',  'Alice',  'alice@gmail']"}
+{timestamp: "2024-07-13 19:10:29", eventDescription: "Row inserted into table 'Consumers' with values [4,  'Alice',  'email@gmail']"}
+{timestamp: "2024-07-13 19:10:55", eventDescription: "Row inserted into table 'Consumers' with values [4,  'Alice',  'email@gmail']"}
+{timestamp: "2024-07-13 19:32:07", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 22:29:32", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 22:32:48", eventDescription: "Row inserted into table 'orders' with values [7,  adc,  346]"}
+{timestamp: "2024-07-19 22:33:02", eventDescription: "Select query executed on table 'orders' with columns [*]"}
+{timestamp: "2024-07-19 22:33:24", eventDescription: "Select query executed on table 'test' with columns [*]"}
+{timestamp: "2024-07-19 22:44:17", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 22:47:10", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 22:47:25", eventDescription: "Select query executed on table 'orders' with columns [*]"}
+{timestamp: "2024-07-19 22:47:44", eventDescription: "Select query executed on table 'orders' with columns [*]"}
+{timestamp: "2024-07-19 22:48:01", eventDescription: "Select query executed on table 'orders' with columns [*]"}
+{timestamp: "2024-07-19 22:48:13", eventDescription: "Select query executed on table 'orders' with columns [*]"}
+{timestamp: "2024-07-19 22:48:32", eventDescription: "Select query executed on table 'orders' with columns [*]"}
+{timestamp: "2024-07-19 22:51:13", eventDescription: "Update query executed on table 'orders' with values OrderNumber='hij' and condition id > 5"}
+{timestamp: "2024-07-19 22:51:27", eventDescription: "Update query executed on table 'orders' with values OrderNumber='hij' and condition personid > 5"}
+{timestamp: "2024-07-19 22:51:39", eventDescription: "Update query executed on table 'orders' with values OrderNumber='hij' and condition PersonID > 5"}
+{timestamp: "2024-07-19 22:51:56", eventDescription: "Select query executed on table 'Orders' with columns [*]"}
+{timestamp: "2024-07-19 22:53:57", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 22:54:56", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 22:58:52", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 23:02:51", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-19 23:03:22", eventDescription: "Select query executed on table 'Orders' with columns [*]"}
+{timestamp: "2024-07-20 01:58:39", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 01:59:27", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 02:04:02", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 02:05:25", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 02:07:26", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 02:09:28", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 11:26:46", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 11:26:58", eventDescription: "Select query executed on table 'unknowtable' with columns [*]"}
+{timestamp: "2024-07-20 11:27:14", eventDescription: "Select query executed on table 'consumers' with columns [*]"}
+{timestamp: "2024-07-20 11:31:10", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 11:32:45", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 11:40:33", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 11:41:50", eventDescription: "Switched to database 'test'"}
+{timestamp: "2024-07-20 11:42:00", eventDescription: "Select query executed on table 'Orders' with columns [PersonIsD, OrderNumbers]"}
+{timestamp: "2024-07-20 11:44:24", eventDescription: "Select query executed on table 'Orders' with columns [*]"}

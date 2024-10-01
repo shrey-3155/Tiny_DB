@@ -1,0 +1,39 @@
+Timestamp: 2024-07-20 09:37:37, Query: USE DATABASE test
+2024-07-21 02:51:06 - QUERY: USE DATABASE test
+2024-07-21 02:52:33 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:53:32 - QUERY: USE DATABASE test
+2024-07-21 02:54:04 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:51:06 - QUERY: USE DATABASE test
+2024-07-21 02:52:33 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:53:32 - QUERY: USE DATABASE test
+2024-07-21 02:54:04 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 03:01:28 - QUERY: USE DATABASE test
+2024-07-21 03:02:10 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:51:06 - QUERY: USE DATABASE test
+2024-07-21 02:52:33 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:53:32 - QUERY: USE DATABASE test
+2024-07-21 02:54:04 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:51:06 - QUERY: USE DATABASE test
+2024-07-21 02:52:33 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 02:53:32 - QUERY: USE DATABASE test
+2024-07-21 02:54:04 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+2024-07-21 03:01:28 - QUERY: USE DATABASE test
+2024-07-21 03:02:10 - QUERY: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:14:18, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:14:47, Query: INSERT INTO my_table (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:15:03, Query: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:21:17, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:21:40, Query: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:25:04, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:25:15, Query: INSERT INTO Consumers (ID, Name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:28:25, Query: INSERT INTO Consumers (Id, Name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:28:34, Query: INSERT INTO Consumers (ID, name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 03:32:52, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:35:27, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:39:44, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:45:15, Query: USE DATABASE test
+Timestamp: 2024-07-21 03:45:30, Query: INSERT INTO Consumers (ID, name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 04:13:08, Query: USE DATABASE test
+Timestamp: 2024-07-21 04:13:21, Query: INSERT INTO Consumers (ID, name, email) VALUES (1, 'John', 'john@gmail.com')
+Timestamp: 2024-07-21 04:23:51, Query: USE DATABASE test
+Timestamp: 2024-07-21 04:24:03, Query: INSERT INTO Consumers (ID, name, email) VALUES (1, 'John', 'john@gmail.com')

@@ -1,0 +1,42 @@
+Timestamp: 2024-07-20 09:37:37, Event: Switched to database 'test'
+2024-07-21 02:51:06 - EVENT: Switched to database 'test'
+2024-07-21 02:52:33 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:53:32 - EVENT: Switched to database 'test'
+2024-07-21 02:54:04 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:51:06 - EVENT: Switched to database 'test'
+2024-07-21 02:52:33 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:53:32 - EVENT: Switched to database 'test'
+2024-07-21 02:54:04 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 03:01:28 - EVENT: Switched to database 'test'
+2024-07-21 03:02:10 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:51:06 - EVENT: Switched to database 'test'
+2024-07-21 02:52:33 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:53:32 - EVENT: Switched to database 'test'
+2024-07-21 02:54:04 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:51:06 - EVENT: Switched to database 'test'
+2024-07-21 02:52:33 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 02:53:32 - EVENT: Switched to database 'test'
+2024-07-21 02:54:04 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+2024-07-21 03:01:28 - EVENT: Switched to database 'test'
+2024-07-21 03:02:10 - EVENT: Row inserted into table 'Consumers' with values [1, 'John', 'john@gmail.com']
+Timestamp: 2024-07-21 03:14:18, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:14:47, Event: Row inserted into table 'my_table' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:15:03, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:21:17, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:21:40, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:25:04, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:25:15, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:28:25, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:28:34, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:32:52, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:33:04, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:35:27, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:35:40, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:39:44, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:39:57, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 03:45:15, Event: Switched to database 'test'
+Timestamp: 2024-07-21 03:45:30, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 04:13:08, Event: Switched to database 'test'
+Timestamp: 2024-07-21 04:13:21, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']
+Timestamp: 2024-07-21 04:23:51, Event: Switched to database 'test'
+Timestamp: 2024-07-21 04:24:03, Event: Row inserted into table 'Consumers' with values [1,  'John',  'john@gmail.com']

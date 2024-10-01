@@ -1,0 +1,3 @@
+2024-07-21 01:43:21 - QUERY: USE DATABASE my_database
+2024-07-21 01:43:21 - GENERAL: Execution Time: 0 ms, Tables: 1, Records: 2
+2024-07-21 01:43:21 - EVENT: Switched to database 'my_database'

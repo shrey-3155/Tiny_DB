@@ -1,0 +1,3 @@
+PersonID | int | FOREIGN KEY REFERENCES Persons(ID)
+OrderNumber | varchar(255) | None
+OrderID | int | PRIMARY KEY
